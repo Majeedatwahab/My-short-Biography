@@ -1,3 +1,2 @@
-# My-short-Biography
-A replica of the Altschool Africa Application form.
-This was done purely with Html.
+# My-short-Biography and a replica of the Altschool Africa Application form.
+
